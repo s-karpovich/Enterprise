@@ -3,6 +3,7 @@ package by.lesson1;
 import java.util.ArrayList;
 
 public class Album {
+
     private String name;
     private ArrayList<Track> tracks;
 

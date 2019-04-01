@@ -1,6 +1,7 @@
 package by.lesson1;
 
 class Track {
+
     private String name;
     private int length;
 
